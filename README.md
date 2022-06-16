@@ -1,6 +1,6 @@
 # Kanban
 
-This is a minimalistic kanban board.
+A minimalistic kanban board.
 
 ![](./screenshot.png)
 
